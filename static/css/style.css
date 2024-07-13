@@ -330,7 +330,7 @@
 	padding:120px 0;
 }
 .fun-facts{
-	background:url('/static/image/header.png');
+	background:url('/ghaffarwalePro/static/image/header.png');
 	background-size:cover;
     image-orientation: flip;
 	background-repeat:no-repeat;
@@ -365,7 +365,7 @@
 	padding-left: 80px;
 }
 .fun-facts .single-fun span {
-	color: #1e1616;
+	color: #fff;
 	font-weight: 600;
 	font-size: 30px;
 	position: relative;
@@ -377,7 +377,7 @@
 	margin-bottom: 7px;
 }
 .fun-facts .single-fun p{
-	color:#58acf1;
+	color:#fff;
 	font-size:15px;
 }
 /* ======== END FUN-FACT
