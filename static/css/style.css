@@ -77,6 +77,28 @@
 
 /* ======== HEADER ====== */
 
+.header .top-contact{
+	float:right;
+}
+.header .top-contact li{
+	display:inline-block;
+	margin-right:25px;
+	color:#2C2D3F;
+}
+.header .top-contact li:last-child{
+	margin-right:0;
+}
+.header .top-contact li a{
+	font-size:14px;
+}
+.header .top-contact li a:hover{
+	color:#1A76D1;
+}
+.header .top-contact li i{
+	color:#1A76D1;
+	margin-right:8px;
+}
+
 .header .logo {
 	float: left;
 	margin-top: 18px;
@@ -91,7 +113,7 @@
 }
 .header .nav li a {
 	color: #2C2D3F;
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 500;
 	text-transform: capitalize;
 	padding: 25px 12px;
